@@ -3,6 +3,6 @@
 <pre>
 <code>
 from ifttt_send_sms import sendtogo
-sendtogo("안녕!!")
+sendtogo("안녕!!", 내가 카톡으로 보내준 url)
 </code>
 </pre>
